@@ -6,6 +6,7 @@
 
 body {
   padding-top: 54px;
+  background-color: #1a1a1a;
 }
 
 @media (min-width: 992px) {
@@ -20,4 +21,13 @@ body {
 
 .pagination {
   margin-bottom: 30px;
+}
+
+.bg-purple{
+  background-color: #6023c0;
+  color: #f3af32;
+}
+
+.text-color{
+  color: #f3af32;
 }

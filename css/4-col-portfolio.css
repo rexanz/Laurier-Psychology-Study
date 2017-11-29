@@ -36,6 +36,10 @@ body {
   color: #44207c;
 }
 
+a{
+  color: #44207c;
+}
+
 /* unvisited link */
 a:link {
   color: #44207c;

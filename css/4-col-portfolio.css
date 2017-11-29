@@ -31,3 +31,27 @@ body {
 .text-color{
   color: #f3af32;
 }
+
+.title-text-color{
+  color: #44207c;
+}
+
+/* unvisited link */
+a:link {
+  color: #44207c;
+}
+
+/* visited link */
+a:visited {
+  color: #44207c;
+}
+
+/* mouse over link */
+a:hover {
+  color: #44207c;
+}
+
+/* selected link */
+a:active {
+  color: #44207c;
+}

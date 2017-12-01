@@ -66,7 +66,7 @@ a {
     -moz-transition: background 0.3s ease-in-out;
     transition: background 0.3s ease-in-out; }
     #mainNav .navbar-nav .nav-item:hover {
-      color: fade(white, 80%);
+      color: #6023c0;
       outline: none;
       background-color: transparent; }
     #mainNav .navbar-nav .nav-item:active, #mainNav .navbar-nav .nav-item:focus {
@@ -207,12 +207,9 @@ footer {
   background: rgba(255, 255, 255, 0.2);
   text-shadow: none; }
 
-::selection {
-  background: #fcfcfc;
-  background: rgba(255, 255, 255, 0.2);
-  text-shadow: none; }
 
-img::selection {
+
+img{
   background: transparent; }
 
 img::-moz-selection {

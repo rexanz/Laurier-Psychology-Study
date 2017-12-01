@@ -35,6 +35,15 @@ body {
   color: #fff;
   list-style-type: none;
 }
+.faq-color a{
+  color: #f3af32;
+}
+.faq-color a:hover{
+  color: #44207c;
+}
+.faq-color a:visited{
+  color: ##f3af32;
+  text-decoration: underline;}
 
 .title-text-color{
   color: #44207c;

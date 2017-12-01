@@ -31,6 +31,10 @@ body {
 .text-color{
   color: #f3af32;
 }
+.faq-color{
+  color: #fff;
+  list-style-type: none;
+}
 
 .title-text-color{
   color: #44207c;

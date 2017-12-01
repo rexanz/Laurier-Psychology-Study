@@ -6,6 +6,7 @@
 
 body {
   padding-top: 54px;
+  background-color: #1a1a1a;
 }
 
 @media (min-width: 992px) {
@@ -20,4 +21,41 @@ body {
 
 .pagination {
   margin-bottom: 30px;
+}
+
+.bg-purple{
+  background-color: #44207c;
+  color: #f3af32;
+}
+
+.text-color{
+  color: #f3af32;
+}
+
+.title-text-color{
+  color: #44207c;
+}
+
+a{
+  color: #44207c;
+}
+
+/* unvisited link */
+a:link {
+  color: #44207c;
+}
+
+/* visited link */
+a:visited {
+  color: #44207c;
+}
+
+/* mouse over link */
+a:hover {
+  color: #44207c;
+}
+
+/* selected link */
+a:active {
+  color: #44207c;
 }
